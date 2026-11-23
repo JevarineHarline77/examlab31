@@ -1,0 +1,74 @@
+{
+  "source_file": "FASE_E_EXAMLAB_V31_LOGIN_REQUIRED_BEFORE_HOME.html",
+  "file_size_bytes": 471899,
+  "inline_script_blocks": 11,
+  "inline_style_blocks": 4,
+  "html_id_count": 188,
+  "duplicate_ids": [],
+  "inline_event_attributes": 116,
+  "external_references": [
+    "${logoSrc}",
+    "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2",
+    "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js",
+    "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"
+  ],
+  "scope": "Static packaging audit; no claim of live browser/Windows end-to-end testing.",
+  "node_available": true,
+  "node_script_checks": [
+    {
+      "script": 1,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 2,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 3,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 4,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 5,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 6,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 7,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 8,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 9,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 10,
+      "return_code": 0,
+      "error": ""
+    },
+    {
+      "script": 11,
+      "return_code": 0,
+      "error": ""
+    }
+  ]
+}
